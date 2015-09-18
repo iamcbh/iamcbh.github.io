@@ -1,0 +1,59 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+Conflicts:
+	README.md
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 5 and 4 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	new file:   .project
+#	modified:   README.md
+#	new file:   bootstrap-3.3.5-dist/css/bootstrap-theme.css
+#	new file:   bootstrap-3.3.5-dist/css/bootstrap-theme.css.map
+#	new file:   bootstrap-3.3.5-dist/css/bootstrap-theme.min.css
+#	new file:   bootstrap-3.3.5-dist/css/bootstrap.css
+#	new file:   bootstrap-3.3.5-dist/css/bootstrap.css.map
+#	new file:   bootstrap-3.3.5-dist/css/bootstrap.min.css
+#	new file:   bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot
+#	new file:   bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg
+#	new file:   bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf
+#	new file:   bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff
+#	new file:   bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2
+#	new file:   bootstrap-3.3.5-dist/js/bootstrap.js
+#	new file:   bootstrap-3.3.5-dist/js/bootstrap.min.js
+#	new file:   bootstrap-3.3.5-dist/js/npm.js
+#	new file:   images/book.svg
+#	new file:   images/bootstrap.png
+#	new file:   images/button.jpg
+#	new file:   images/captain.png
+#	new file:   images/cd-icon-location.svg
+#	new file:   images/cd-icon-movie.svg
+#	new file:   images/cd-icon-picture.svg
+#	new file:   images/email.png
+#	new file:   images/header_bg.jpg
+#	new file:   images/me.jpg
+#	new file:   images/me.png
+#	new file:   images/phone.png
+#	new file:   images/register.png
+#	new file:   images/star.svg
+#	new file:   index.html
+#	new file:   javascripts/index.js
+#	new file:   javascripts/jquery-1.11.3.min.js
+#	new file:   javascripts/jquery.circliful.min.js
+#	new file:   params.json
+#	new file:   stylesheets/index.css
+#
+
