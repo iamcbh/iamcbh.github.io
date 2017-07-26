@@ -3,6 +3,7 @@
 Conflicts:
 sad
 	README.md
+	develop2
 #
 # It looks like you may be committing a merge.
 # If this is not correct, please remove the file
